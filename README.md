@@ -5,5 +5,5 @@ This repo acts as a published package for the official docs: https://github.com/
 ## Installation
 
 ```bash
-yarn add boxhock/tradingeconomics-stream
+yarn add tradingeconomics-stream
 ```
