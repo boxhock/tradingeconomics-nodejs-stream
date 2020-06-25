@@ -1,0 +1,19 @@
+{
+  "name": "tradingeconomics-stream",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:boxhock/tradingeconomics-nodejs-stream.git",
+  "author": "Jonas Hals <jonas@smartcontract.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^7.3.1",
+    "ws": "^7.3.0"
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
