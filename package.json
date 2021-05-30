@@ -15,7 +15,7 @@
     "lint:fix": "eslint --ignore-path .eslintignore . --ext .js,.jsx,.ts,.tsx --fix"
   },
   "dependencies": {
-    "ws": "^7.3.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@tsconfig/node12": "^1.0.7",
